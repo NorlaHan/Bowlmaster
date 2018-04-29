@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d053d31ad8490b44192a9184e07c48d7
+timeCreated: 1521082883
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pinFormationPrefab: {fileID: 1554532150320490, guid: 2bcbd8948720e434c9b4a649a77d0c0b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

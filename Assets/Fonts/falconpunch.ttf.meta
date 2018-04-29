@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6c801918002b8724fb7e1d8b38195ed8
+timeCreated: 1521430529
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Falcon Punch
+  fontNames:
+  - Falcon Punch
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
